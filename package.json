@@ -1,0 +1,24 @@
+{
+  "name": "doffy",
+  "version": "1.0.0",
+  "description": "DOF 2 fun",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rrcook/doffy.git"
+  },
+  "author": "Richard Cook",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rrcook/doffy/issues"
+  },
+  "homepage": "https://github.com/rrcook/doffy#readme",
+  "dependencies": {
+    "alexa-app": "^4.0.0",
+    "bluebird": "^3.5.0",
+    "nforce": "^1.7.0"
+  }
+}
